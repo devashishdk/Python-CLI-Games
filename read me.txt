@@ -1,0 +1,7 @@
+Code consist of 3 games
+
+1. TIC TAC TOE
+
+2. CodeBreaker
+
+3. Guess the number
